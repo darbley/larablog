@@ -1,0 +1,14 @@
+body{
+  background: #f1f1f1;
+}
+
+.featured-image-wrap{
+  position: relative;
+  display: inline-block;
+  text-align:right;
+}
+
+img.featured_image{
+  display: inline-block;
+  width:25%;
+}
